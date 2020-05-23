@@ -1,4 +1,4 @@
-# RoboCppND-Go-Chase-It-Project
+# RoboND-Go-Chase-It-Project
 Second project of the Robotics Course of Udacity
 
 ## Install ROS
