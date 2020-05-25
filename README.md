@@ -1,5 +1,5 @@
-# RoboND-Go-Chase-It-Project
-Second project of the Robotics Course of Udacity
+# RoboND-Where-Am-I-Project
+Third project of the Robotics Course of Udacity
 
 ## Install ROS
 Follow the steps in http://wiki.ros.org/kinetic/Installation
