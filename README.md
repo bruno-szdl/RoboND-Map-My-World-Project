@@ -2,7 +2,7 @@
 Second project of the Robotics Course of Udacity
 
 ## Install ROS
-Follow the steps in http://wiki.ros.org/melodic/Installation
+Follow the steps in http://wiki.ros.org/kinetic/Installation
 
 ## Edit the .bashrc file
 Insert the line `source /opt/ros/melodic/setup.bash` in .bashrc  
