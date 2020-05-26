@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/workspace/RoboND-Where-Am-I-Project/catkin_ws/install/setup.sh
