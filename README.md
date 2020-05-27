@@ -36,6 +36,11 @@ Open a new terminal
 `$ source devel/setup.bash`  
 `$ roslaunch my_robot amcl.launch`
 
+## RViz
+Click the “Add” button and add RobotModel. 
+Add Map and select first topic/map  
+Add PoseArray and select topic/particlecloud
+
 ## Run the teleop node
 Open a new terminal
 `$ source devel/setup.bash`  
