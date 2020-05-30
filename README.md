@@ -8,7 +8,7 @@ Fourth project of the Robotics Course of Udacity
 * ROS Kinetic 
 
 ## Edit the .bashrc file
-Insert the line `source /opt/ros/melodic/setup.bash` in .bashrc  
+Insert the line `source /opt/ros/kinetic/setup.bash` in .bashrc  
 Restart the terminal
 
 ## Clone the repo in your workspace
